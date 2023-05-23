@@ -66,7 +66,7 @@
         echo "Input ID Anda salah !";
     else
         echo $ID
-    ?><br><br>========================================= <br><br>
+    ?><br><br>___________________________________________________ <br><br>
     Data Customer : <br>
     ID Customer &nbsp : <?php
     // Memvalidasi dan menampilkan ID Customer
