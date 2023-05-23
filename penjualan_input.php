@@ -6,7 +6,7 @@
             <h1>HANDPHONE SHOP</h1>
             <!-- Menampilkan judul halaman -->
             Produk GSM Mobile (Best Price) :<br>
-            <form action="penjualanHP_output.php" method="post">
+            <form action="penjualan_output.php" method="post">
                 <!-- Form untuk mengumpulkan data customer dan produk -->
                 <input type="checkbox" name="produk1" value="Nokia 1208 Rp.350.000,-">Nokia 1208 Rp.350.000,- <br> 
                 <input type="checkbox" name="produk2" value="Nokia 1661 Rp.465.000,-">Nokia 1661 Rp.465.000,-<br>
