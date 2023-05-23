@@ -46,7 +46,8 @@
     ?>
     <h1>Info Pembelian</h1>
     <hr>
-    Produk yang dibeli &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp : <?php
+    PRODUK YANG DIBELI <?php 
+    <br>
 
     // Menampilkan produk yang dipilih menggunakan metode POST
     if (isset($_POST['produk1']))
@@ -66,7 +67,7 @@
         echo "Input ID Anda salah !";
     else
         echo $ID
-    ?><br><br>___________________________________________________ <br><br>
+    ?><br><br>=============================================== <br><br>
     Data Customer : <br>
     ID Customer &nbsp : <?php
     // Memvalidasi dan menampilkan ID Customer
